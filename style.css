@@ -1,14 +1,15 @@
 *{border: 1px solid black;}*
 body {font-family: 'Clicker Script', cursive;
 background-image: url("https://static.vecteezy.com/system/resources/previews/000/104/103/original/retro-background-pattern-vector.jpg");}
-header img {width: 200px;
-height: 200px;
+/*conception header*/
+header img {width: 250px;
+height: 250px;
 }
 h1 {
 width: 500px;
 font-size: 60px;
 margin-left: 450px;
-margin-top: -200px;
+margin-top: -210px;
 font-size: 100px;}
 #vintage {margin-top: -95px;
 margin-left: 50%;
@@ -17,9 +18,32 @@ background-color: rgba(247, 240, 226, 0.89);
 width: 13%;
 height: 30%;}
 header {width: 100%;
-height: 200px;
+height: 250px;
 display: inline-block;
 background-color: rgba(200, 187, 115, 0.92);
 border: 5px solid black;
 margin-right: 10px;
 }
+/*conception de la barre menu*/
+#navigation {width: 100%;
+list-style: none;
+margin: 0;
+padding: 0;
+text-align: center;}
+#navigation li {background: rgb(241, 62, 14);
+display: inline;
+color: black;
+border:1px solid black;
+margin-bottom: 1px;
+margin-right: 1px;
+font-size: 35px;
+}
+#navigation li a {background: rgb(241, 62, 14);
+color: black;
+font: 1em;
+line-height: 1em;
+text-align: center;
+text-decoration: none;
+padding: 4px 20px;
+border: 1px solid black;}
+#navigation li a:hover{background-color:rgb(9, 145, 137);}
