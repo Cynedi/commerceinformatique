@@ -123,7 +123,7 @@ font-size: 20px;}
 footer {
 background-color: rgba(231, 206, 158, 0.94);
 text-align: center;
-width: 1305px;
+width: 1307px;
 margin-left: -9px;
 }
 footer p {
@@ -136,4 +136,21 @@ float: right;
 font-size: 20px;
 margin-right: 30px;
 margin-top: 21px;
+}
+/*page présentation*/
+.container {
+font-size: 30px;
+display: inline;
+}
+
+h4 {font-size: 50px;
+text-decoration: underline;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+#presentation {background-color: rgba(247, 240, 226);
+width: 70%;
+height: 70%;
+padding: 10px;
+margin-bottom: 40px;
 }
