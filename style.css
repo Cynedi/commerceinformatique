@@ -1,7 +1,9 @@
-body {font-family: 'Clicker Script', cursive;
+body {
+font-family: 'Clicker Script', cursive;
 background-image: url("https://static.vecteezy.com/system/resources/previews/000/104/103/original/retro-background-pattern-vector.jpg");}
 /*conception header*/
-header img {width: 250px;
+header img {
+width: 250px;
 height: 250px;
 }
 h1 {
@@ -177,6 +179,36 @@ width: 30%;
 margin-top: 20px;
 }
 /*lien dans les fiches produits*/
-#articles a {text-decoration: none;
+#articles a {
+text-decoration: none;
 color: black;}
 #articles a:hover {color:rgb(241, 62, 14);}
+/*formulaire de contact*/
+#nom {display: block;}
+#prénom {display: block;}
+#email {display: block;}
+#telephone {display: block;}
+#demande {display: block;}
+label {
+font-size: 20px;
+margin-top: 10%;
+}
+form {
+background-color: rgb(9, 145, 137);
+width: 22%;
+padding-left: 40px;
+padding-bottom: 10px;
+padding-top: 10px;
+margin-left: 37%;
+margin-top: 20px;
+margin-bottom: 20px;
+box-shadow: 4px 4px 2px grey;
+}
+#envoyer {
+margin-top: 10px;
+margin-left: 70px;
+}
+#titre {
+font-size: 30px;
+margin-bottom: 40px;
+}
