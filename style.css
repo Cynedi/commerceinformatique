@@ -176,3 +176,7 @@ text-align: center;
 width: 30%;
 margin-top: 20px;
 }
+/*lien dans les fiches produits*/
+#articles a {text-decoration: none;
+color: black;}
+#articles a:hover {color:rgb(241, 62, 14);}
