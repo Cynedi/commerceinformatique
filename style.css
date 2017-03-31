@@ -29,6 +29,7 @@ display: inline-block;
 background-color: rgba(231, 206, 158, 0.94);
 border: 5px solid black;
 padding-right: 328px;
+position: relative;
 }
 /*conception de la barre menu*/
 #navigation {
