@@ -213,7 +213,7 @@ color: black;}
 #articles a:hover {color:rgb(241, 62, 14);}
 /*formulaire de contact*/
 #nom {display: block;}
-#prénom {display: block;}
+#prenom {display: block;}
 #email {display: block;}
 #telephone {display: block;}
 #demande {display: block;}
